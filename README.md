@@ -3,7 +3,7 @@
 
 #### 1. INSTALL ZSH
 ```sh
-# for archilinux
+# for archlinux
 sudo pacman -S zsh 
 
 # for ubuntu | deb

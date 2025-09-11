@@ -69,3 +69,10 @@ export SPACESHIP_CONFIG="$HOME/.config/spaceship.zsh"
 ```sh
 SPACESHIP_PROMPT_ASYNC=false
 ```
+
+* padding in Xfce Terminal
+```sh
+VteTerminal, vte-terminal {
+  padding: 15px 15px;  /* top/bottom , left/right */
+}
+```
